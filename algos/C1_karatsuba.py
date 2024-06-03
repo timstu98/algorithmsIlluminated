@@ -1,5 +1,3 @@
-import math
-
 def karatsuba(int1,int2):
     """multiples two integers together using karatsubas integer multiplication algorithm
     recursive algorithm
